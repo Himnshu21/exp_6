@@ -1,0 +1,2 @@
+# exp_6
+Build a blog website using media queries and Bootstrap to  ensure it adapts well to different screen sizes.
